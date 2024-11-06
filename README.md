@@ -20,7 +20,7 @@ Bot ini dirancang untuk membantu dalam mengelola anggota grup Telegram. Dengan b
 
 1. Clone repositori ini:
     ```sh
-    [git clone https://github.com/username/repository.git](https://github.com/failedtoacces/culiktele.git)
+    git clone https://github.com/failedtoacces/culiktele.git
     cd culiktele
     ```
 2. Jalankan setup:
